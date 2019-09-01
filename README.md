@@ -16,6 +16,7 @@ The repo consists of my works on the Database System practicum. All of my works 
 9. Chapter 8: Union, Intersection, and Difference.
 10. Chapter 9: SQL Subquery.
 11. Chapter 10: SQL Transactions.
-12. Chapter 11: T-SQL Programming Basics.
+12. Chapter 11: T-SQL Programming Basics.  
+
 The reports itself contains SQL syntaxes that answers various questions based on each chapter. The SQL syntaxes are shown as screenshots. However, currently those questions are lost so I am unable to show it.
 Hopefully this can show that I have past experience working with SQL databases (half of my projects utilized the SQL, but recently I found satisfaction in using NoSQL databases).
