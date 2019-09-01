@@ -3,7 +3,7 @@ Contains all of my reports on the practicum "Database System" of my undergraduat
 The database languange we used was SQL, and we used Microsoft SQL Studio to implement the database. During our study of databases, we are required to accomplish tasks and assignments. Those tasks and assignments are in the form of reports, and each chapter discusses certain topics and concepts related to database.
 I thank FRISKA ANGGIA NURLITA SARI, FIDIA ROSIANTI, ADHIRAJASA RAITSANY, and TUTI WARDANI HAMID for being pretty cool practicum assistants and thus helped me to understood the SQL languange. Will update this when I found their GitHub accounts.
 
-##How does this repo is structured?
+## How does this repo is structured?
 The repo consists of my works on the Database System practicum. All of my works can be found inside the reports. There are a total of 12 reports, each represents a chapter ("bab"), and each of the chapters cover some topics:
 1. Chapter 0: Explanation of the working environment of the practicum, and how to set it.
 2. Chapter 1: ERD, EERD, and relational model mapping.
